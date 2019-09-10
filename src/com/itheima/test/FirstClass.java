@@ -18,4 +18,8 @@ public class FirstClass {
         System.out.println("Hello Git Project!");
         System.out.println("Hello Git Project!");
     }
+    public void test() throws Exception{
+         int i = 999;
+         i++;
+    }
 }
